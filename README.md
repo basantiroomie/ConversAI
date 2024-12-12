@@ -1,6 +1,6 @@
 # ConversAI - Chrome Extension
 
-Converse AI is an intelligent sentence rephraser designed to elevate your communication. Whether you're writing a professional email, sending a friendly message, or crafting something romantic, Converse AI helps you convey your thoughts with clarity and precision. Powered by the robust Gemini API, this tool offers multiple tone options to suit any context.
+ConversAI is an intelligent sentence rephraser designed to elevate your communication. Whether you're writing a professional email, sending a friendly message, or crafting something romantic, ConversAI helps you convey your thoughts with clarity and precision. Powered by the robust Gemini API, this tool offers multiple tone options to suit any context.
 
 ---
 
@@ -41,7 +41,7 @@ Converse AI is an intelligent sentence rephraser designed to elevate your commun
 
 ## Usage
 
-1. Click on the Converse AI icon in your Chrome toolbar.
+1. Click on the ConversAI icon in your Chrome toolbar.
 2. Type your message in the input field.
 3. Select a tone (Professional, Friendly, Romantic, etc.).
 4. Review the suggested rephrased options.
@@ -51,7 +51,7 @@ Converse AI is an intelligent sentence rephraser designed to elevate your commun
 
 ## Contribution
 
-We welcome contributions to improve Converse AI! Here's how you can help:
+We welcome contributions to improve ConversAI! Here's how you can help:
 
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix.
@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Feedback
 
-We’d love to hear your thoughts about Converse AI! If you have any feedback, issues, or feature requests, please open an issue or contact us directly.
+We’d love to hear your thoughts about ConversAI! If you have any feedback, issues, or feature requests, please open an issue or contact us directly.
